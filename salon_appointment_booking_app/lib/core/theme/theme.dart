@@ -22,6 +22,13 @@ class AppTheme {
           fontWeight: FontWeight.bold,
         ),
       ),
+      bodyLarge: GoogleFonts.urbanist(
+        textStyle: TextStyle(
+          fontSize: 24,
+          color: Palette.whiteColor,
+          fontWeight: FontWeight.bold,
+        ),
+      ),
       headlineMedium: GoogleFonts.urbanist(
         textStyle: TextStyle(
           fontSize: 20,
@@ -31,9 +38,9 @@ class AppTheme {
       ),
       headlineSmall: GoogleFonts.urbanist(
         textStyle: TextStyle(
-          fontSize: 18,
+          fontSize: 16,
           color: Palette.blackColor,
-          fontWeight: FontWeight.bold,
+          fontWeight: FontWeight.w500,
         ),
       ),
       bodyMedium: GoogleFonts.urbanist(
@@ -55,6 +62,20 @@ class AppTheme {
           fontSize: 14,
           color: Palette.blackColor,
           fontWeight: FontWeight.w900,
+        ),
+      ),
+      titleSmall: GoogleFonts.urbanist(
+        textStyle: TextStyle(
+          fontSize: 16,
+          color: Palette.whiteColor,
+          fontWeight: FontWeight.w400,
+        ),
+      ),
+      titleLarge: GoogleFonts.urbanist(
+        textStyle: TextStyle(
+          fontSize: 18,
+          color: Palette.whiteColor,
+          fontWeight: FontWeight.w600,
         ),
       ),
     ),

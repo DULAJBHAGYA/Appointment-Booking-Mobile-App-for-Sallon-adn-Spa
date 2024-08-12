@@ -1,0 +1,58 @@
+class SalonsData {
+  static List salons = [
+    {
+      'image': 'images/salon_lilly.jpg',
+      'name': 'Salon Lilly',
+      'address': 'No: 32, Kandy Rd, Peradeniya',
+      'rating': 4.5,
+      'distance': 2,
+      'contact': '077 123 4567',
+      'email': 'info@salonlilly.com',
+    },
+    {
+      'image': 'images/salon_dee.jpg',
+      'name': 'Salon Dee',
+      'address': 'N0: 122/A, King St, Kandy',
+      'rating': 3.4,
+      'distance': 7.1,
+      'contact': '077 123 4567',
+      'email': 'info@salonlilly.com',
+    },
+    {
+      'image': 'images/salon_lotus.jpg',
+      'name': 'Salon Lotus',
+      'address': 'No: 122/A, Colombo St, Kandy',
+      'rating': 4.5,
+      'distance': 6.3,
+      'contact': '077 123 4567',
+      'email': 'info@salonlilly.com',
+    },
+    {
+      'image': 'images/the_beauty_quest.jpg',
+      'name': 'The Beauty Quest',
+      'address': 'No: 122/A, Kandy Rd, Pilimathalawa',
+      'rating': 8.5,
+      'distance': 1.3,
+      'contact': '077 123 4567',
+      'email': 'info@salonlilly.com',
+    },
+    {
+      'image': 'images/salon_lia.jpg',
+      'name': 'Salon Lia',
+      'address': 'No: 14/A, Kandy Rd, Peradeniya',
+      'rating': 5.5,
+      'distance': 1.1,
+      'contact': '077 123 4567',
+      'email': 'info@salonlilly.com',
+    },
+    {
+      'image': 'images/salon_leo.jpg',
+      'name': 'Salon Leo',
+      'address': 'No: 11/A, Old Kandy Rd, Mulgampola',
+      'rating': 8.5,
+      'distance': 4.3,
+      'contact': '077 123 4567',
+      'email': 'info@salonlilly.com',
+    },
+  ];
+}
